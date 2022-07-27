@@ -24,6 +24,7 @@ print("-------------------------")
 client2=GestionCpt8(12345678,"Lipo",20000)
 client2.Retrait(25000)
 client2.affichageInfo()
+print("Mon premier commit")
 
 
 
